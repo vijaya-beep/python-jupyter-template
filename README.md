@@ -24,6 +24,15 @@ Welcome! This guide will help you set up your environment, complete the activiti
 
 ---
 
+
+
+
+
+
+
+
+
+
 ## 2. Activities
 
 ### Overview
