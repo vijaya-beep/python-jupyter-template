@@ -25,6 +25,25 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ipykernel
 pydantic
 matplotlib

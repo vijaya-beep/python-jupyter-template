@@ -35,8 +35,95 @@ Welcome! This guide will help you set up your environment, complete the activiti
 
 ## 2. Activities
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Overview
 Before diving into the project exercises, it's essential to complete the activities. These activities are designed to familiarize you with the basics of Jupyter Notebook and Matplotlib.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Available Activities
 1. **Basics of Jupyter Notebook**: Learn how to navigate and write basic Python code in Jupyter Notebook.
