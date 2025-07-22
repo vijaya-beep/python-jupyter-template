@@ -33,6 +33,47 @@ Welcome! This guide will help you set up your environment, complete the activiti
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 2. Activities
 
 
@@ -130,6 +171,22 @@ Before diving into the project exercises, it's essential to complete the activit
    - File: `activities/1.1-basic-jupyter-notebook.ipynb`
 2. **Introduction to Matplotlib**: Explore Matplotlib and create basic visualizations.
    - File: `activities/1.2-using-matplotlib.ipynb`
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Steps to Complete Activities
 1. Open the activity files from the `activities` folder in your Codespace.
